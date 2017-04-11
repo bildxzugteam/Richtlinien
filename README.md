@@ -1,2 +1,5 @@
 # Richtlinien
-Bildxzug Richtlinien für Github
+## Benutzer
+## Repositories
+## Branches
+## Commits
